@@ -1,2 +1,8 @@
 # Python-Exercises
-A collection of algorithm and data structure problems solved in Python.
+This repository contains a collection of coding problems solved in Python.
+
+## 🎯 Goals
+- Practice and improve Python programming skills.
+- Build a personal archive of solved coding problems.
+- Prepare for technical interviews and assessments.
+- Track progress and revisit problems for optimization.
